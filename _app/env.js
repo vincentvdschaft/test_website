@@ -1,1 +1,1 @@
-export const env={"PUBLIC_ASSET_BASE":"https://assets.vincentvandeschaft.net"}
+export const env={"PUBLIC_ASSET_BASE":"https://assets.vincentvandeschaft.net","PUBLIC_ASSET_BASE_LOCAL":"/assets"}
